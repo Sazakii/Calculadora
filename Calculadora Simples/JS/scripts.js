@@ -30,5 +30,5 @@ function calcular()
 function abaixarsom()
 {
     var som = document.getElementById('musica');
-    som.volume = 0.1;
+    som.volume = 0.9;
 }
