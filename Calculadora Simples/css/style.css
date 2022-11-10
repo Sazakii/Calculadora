@@ -47,11 +47,3 @@
     text-align: right;
     padding: 5px;
 }
-
-#joker{
-    transform: translate(-120%,80%);
-}
-
-#logo{
-    transform: translate(290%,-175%);
-}
