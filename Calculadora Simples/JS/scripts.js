@@ -23,12 +23,6 @@ function calcular()
     }
     else
     {
-        document.getElementById('resultado').innerHTML = "Nada...";
+        document.getElementById('resultado').innerHTML = "";
     }
-}
-
-function abaixarsom()
-{
-    var som = document.getElementById('musica');
-    som.volume = 0.9;
 }
